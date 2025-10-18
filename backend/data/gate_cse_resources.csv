@@ -1,0 +1,32 @@
+subject,topic,type,title,creator/provider,url,notes
+Discrete Mathematics,Set Theory,YouTube Playlist,Discrete Math Full Course,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3MwsF8Hk0v,Comprehensive lectures for GATE
+Discrete Mathematics,Graph Theory,YouTube Playlist,Graph Theory Complete,Abdul Bari,https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvWPWcxG7YcsmfUy7,Well-explained with proofs and examples
+Discrete Mathematics,Discrete Probability,Notes,Discrete Probability Notes,NPTEL (Kharagpur),https://nptel.ac.in/courses/111105042,Strong theoretical base
+Programming & DSA,Arrays,YouTube Playlist,Arrays and Searching,NeetCode,https://www.youtube.com/@NeetCode/playlists,High-quality problems and patterns
+Programming & DSA,DP,Notes,DP Patterns and Cheatsheet,LeetCode Discuss,https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns,Classic DP patterns
+Programming & DSA,Comprehensive,Playlist,Striver DSA Sheet Explained,Striver,https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw,Topic-wise coding interview prep
+Algorithms,Greedy,Notes,Greedy Algorithms,GFG,https://www.geeksforgeeks.org/greedy-algorithms,Rich examples
+Algorithms,Divide and Conquer,Notes,Divide and Conquer,GFG,https://www.geeksforgeeks.org/divide-and-conquer-algorithm,Patterns and problems
+Data Structures,Trees,Playlist,Trees and BST,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2ete3bxG4VZB0DxL8n9hS,Good depth
+Data Structures,Graphs,Playlist,Graph Algorithms,William Fiset,https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q,Algorithmic insights
+Computer Organization,Combinational Circuits,Playlist,Digital Logic & COA,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y,Extensive COA + DL
+Computer Organization,Pipelining,Notes,COA Notes (Pipelining),Neso Academy,https://www.nesoacademy.org/courses/computer-organization-and-architecture,Clear visuals
+Digital Logic,Boolean Algebra,Playlist,Digital Logic,Abdul Bari,https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ,Great for fundamentals
+Operating Systems,Processes and Scheduling,Playlist,Operating Systems,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_,GATE-aligned OS
+Operating Systems,Memory Management,Notes,OS Notes (Paging/Segmentation),GFG,https://www.geeksforgeeks.org/operating-systems,Topic-wise articles
+DBMS,Normalization,Playlist,DBMS,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3MwsF8Hk0v,Normalization and SQL
+DBMS,Transactions,Notes,DBMS Transactions,GFG,https://www.geeksforgeeks.org/dbms,ACID and concurrency control
+Computer Networks,TCP/IP,Playlist,Computer Networks,Neso Academy,https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGlvGya3H9v8VY8v_,Layered approach and protocols
+Computer Networks,Congestion Control,Notes,CN Notes,GFG,https://www.geeksforgeeks.org/computer-network-tutorials,In-depth explanations
+Compiler Design,Lexical & Parsing,Playlist,Compiler Design,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2ewF2bLr9GQ9i9us0U2G4,Covers entire syllabus
+Compiler Design,Optimization,Notes,Compiler Notes,NPTEL (IIT KGP),https://nptel.ac.in/courses/106105190,Good theory
+Software Engineering,UML & SDLC,Playlist,Software Engineering,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6h2Z_z-fM9G6nS8QXx2bS,Project mgmt & testing
+Theory of Computation,Automata,Playlist,Theory of Computation,Gate Smashers,https://www.youtube.com/playlist?list=PLxCzCOWd7aiF6w1oOZlNdhXBX2I3V3D0r,Automata + Grammar
+Theory of Computation,Decidability,Notes,TOC Notes,GFG,https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials,Great summaries
+Discrete Mathematics,Combinatorics,Notes,Discrete Math Notes,Neso Academy,https://www.nesoacademy.org/courses/mathematics/discrete-mathematics,Practice problems
+Mathematics,Linear Algebra,Playlist,Linear Algebra 4 GATE,Neso Academy,https://www.youtube.com/playlist?list=PLBlnK6fEyqRiCr0w0H6P7wZfQN8N8QQ9r,Key concepts for GATE
+Mathematics,Probability,Playlist,Probability & Statistics,Neso Academy,https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3h5hD4e0Qbx9dko4NMY9B,Examples heavy
+Aptitude,Quantitative,Playlist,GATE Aptitude,Neso Academy,https://www.youtube.com/playlist?list=PLBlnK6fEyqRi528UaaUeeuZ8nBfK9Uj8q,General aptitude for GATE
+Aptitude,Verbal,Notes,GATE Verbal Ability,Collegedunia,https://collegedunia.com/exams/gate-syllabus,Updated syllabus
+AI & ML,Basics,Playlist,Intro to ML,CS50/Harvard,https://www.youtube.com/playlist?list=PLhQjrBD2T3818vP68r_Jm9gl4fL183gMi,Optional enrichment
+Cyber Security,Basics,Notes,InfoSec Basics,NPTEL (IIT K),https://nptel.ac.in/courses/106106129,Supplementary
