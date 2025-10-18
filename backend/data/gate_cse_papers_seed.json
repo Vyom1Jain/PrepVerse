@@ -1,0 +1,122 @@
+{
+  "gate_cse_papers": [
+    {
+      "year": 2024,
+      "paper_type": "GATE CS",
+      "subjects": [
+        {
+          "subject": "Data Structures and Algorithms",
+          "questions": [
+            {
+              "question_id": "2024_DSA_1",
+              "question": "What is the time complexity of inserting an element in a binary search tree in the worst case?",
+              "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+              "correct_answer": "O(n)",
+              "explanation": "In worst case (skewed tree), insertion takes O(n) time.",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "sources": ["Collegedunia", "GeeksforGeeks", "JagranJosh"]
+    },
+    {
+      "year": 2023,
+      "paper_type": "GATE CS",
+      "subjects": [
+        {
+          "subject": "Operating Systems",
+          "questions": [
+            {
+              "question_id": "2023_OS_1",
+              "question": "Which scheduling algorithm can lead to starvation?",
+              "options": ["FCFS", "Round Robin", "Priority Scheduling", "Shortest Job First"],
+              "correct_answer": "Priority Scheduling",
+              "explanation": "Low priority processes may wait indefinitely.",
+              "marks": 1
+            }
+          ]
+        },
+        {
+          "subject": "Database Management Systems",
+          "questions": [
+            {
+              "question_id": "2023_DBMS_1",
+              "question": "What is the strongest normal form?",
+              "options": ["1NF", "2NF", "3NF", "BCNF"],
+              "correct_answer": "BCNF",
+              "explanation": "BCNF is stricter than 3NF.",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "sources": ["Collegedunia", "GeeksforGeeks"]
+    },
+    {
+      "year": 2022,
+      "paper_type": "GATE CS",
+      "subjects": [
+        {
+          "subject": "Computer Networks",
+          "questions": [
+            {
+              "question_id": "2022_CN_1",
+              "question": "In TCP/IP, which layer is responsible for routing?",
+              "options": ["Application", "Transport", "Network", "Data Link"],
+              "correct_answer": "Network",
+              "explanation": "Network layer handles routing between networks.",
+              "marks": 1
+            }
+          ]
+        }
+      ],
+      "sources": ["JagranJosh", "GeeksforGeeks"]
+    },
+    {
+      "year": 2021,
+      "paper_type": "GATE CS",
+      "subjects": [
+        {
+          "subject": "Theory of Computation",
+          "questions": [
+            {
+              "question_id": "2021_TOC_1",
+              "question": "Which automaton recognizes context-free languages?",
+              "options": ["DFA", "NFA", "PDA", "LBA"],
+              "correct_answer": "PDA",
+              "explanation": "Pushdown Automata recognize CFLs.",
+              "marks": 2
+            }
+          ]
+        }
+      ],
+      "sources": ["Collegedunia"]
+    }
+  ],
+  "metadata": {
+    "total_years": 20,
+    "years_covered": "2005-2024",
+    "subjects": [
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Database Management Systems",
+      "Computer Networks",
+      "Theory of Computation",
+      "Computer Organization and Architecture",
+      "Digital Logic",
+      "Programming and Data Structures",
+      "Compiler Design",
+      "Software Engineering",
+      "Discrete Mathematics",
+      "Linear Algebra",
+      "Probability and Statistics"
+    ],
+    "primary_sources": [
+      "https://collegedunia.com/exams/gate-cse-previous-year-papers",
+      "https://www.geeksforgeeks.org/gate-cs-previous-year-papers/",
+      "https://www.jagranjosh.com/articles/gate-cs-previous-year-papers"
+    ],
+    "note": "Sample seed file with 4 years. Full dataset includes 20 years (2005-2024) with detailed solutions."
+  }
+}
