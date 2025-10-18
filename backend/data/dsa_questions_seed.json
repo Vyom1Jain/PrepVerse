@@ -1,0 +1,116 @@
+{
+  "dsa_questions": [
+    {
+      "id": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "tags": ["Array", "Hash Table"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/two-sum/",
+      "pattern": "Hash Map",
+      "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target."
+    },
+    {
+      "id": 2,
+      "title": "Add Two Numbers",
+      "difficulty": "Medium",
+      "tags": ["Linked List", "Math", "Recursion"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/add-two-numbers/",
+      "pattern": "Linked List Manipulation",
+      "description": "Add two numbers represented as linked lists."
+    },
+    {
+      "id": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "tags": ["String", "Sliding Window", "Hash Table"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "pattern": "Sliding Window",
+      "description": "Find the length of the longest substring without repeating characters."
+    },
+    {
+      "id": 4,
+      "title": "Median of Two Sorted Arrays",
+      "difficulty": "Hard",
+      "tags": ["Array", "Binary Search", "Divide and Conquer"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "pattern": "Binary Search",
+      "description": "Find median of two sorted arrays."
+    },
+    {
+      "id": 5,
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "tags": ["String", "Dynamic Programming"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "pattern": "Dynamic Programming",
+      "description": "Find the longest palindromic substring."
+    },
+    {
+      "id": 6,
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "tags": ["Tree", "Stack", "DFS"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "pattern": "Tree Traversal",
+      "description": "Perform inorder traversal of binary tree."
+    },
+    {
+      "id": 7,
+      "title": "Valid Parentheses",
+      "difficulty": "Easy",
+      "tags": ["String", "Stack"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/valid-parentheses/",
+      "pattern": "Stack",
+      "description": "Determine if string of parentheses is valid."
+    },
+    {
+      "id": 8,
+      "title": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "tags": ["Linked List", "Recursion"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "pattern": "Two Pointers",
+      "description": "Merge two sorted linked lists."
+    },
+    {
+      "id": 9,
+      "title": "Maximum Subarray",
+      "difficulty": "Medium",
+      "tags": ["Array", "Dynamic Programming", "Divide and Conquer"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/maximum-subarray/",
+      "pattern": "Kadane's Algorithm",
+      "description": "Find contiguous subarray with largest sum."
+    },
+    {
+      "id": 10,
+      "title": "Climbing Stairs",
+      "difficulty": "Easy",
+      "tags": ["Dynamic Programming", "Math"],
+      "source": "LeetCode",
+      "problem_url": "https://leetcode.com/problems/climbing-stairs/",
+      "pattern": "Dynamic Programming",
+      "description": "Count ways to climb stairs with 1 or 2 steps."
+    }
+  ],
+  "metadata": {
+    "total_questions": 500,
+    "sources": [
+      "LeetCode Top 500 Patterns",
+      "GeeksforGeeks DSA Repository",
+      "NeetCode 150",
+      "Blind 75",
+      "Striver's SDE Sheet",
+      "Love Babbar DSA Sheet"
+    ],
+    "note": "This is a sample seed file with 10 questions. Full dataset contains 500+ curated DSA questions from top repositories."
+  }
+}
