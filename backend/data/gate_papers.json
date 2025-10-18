@@ -1,0 +1,68 @@
+[
+  {
+    "id": "gate-2024-cse-01",
+    "year": 2024,
+    "subject": "Computer Science",
+    "title": "GATE 2024 CSE - Paper 1",
+    "description": "GATE 2024 Computer Science Engineering Paper 1",
+    "totalQuestions": 65,
+    "totalMarks": 100,
+    "duration": 180,
+    "sections": [
+      {
+        "name": "General Aptitude",
+        "questions": 10,
+        "marks": 15
+      },
+      {
+        "name": "Technical Section",
+        "questions": 55,
+        "marks": 85
+      }
+    ]
+  },
+  {
+    "id": "gate-2023-cse-01",
+    "year": 2023,
+    "subject": "Computer Science",
+    "title": "GATE 2023 CSE - Paper 1",
+    "description": "GATE 2023 Computer Science Engineering Paper 1",
+    "totalQuestions": 65,
+    "totalMarks": 100,
+    "duration": 180,
+    "sections": [
+      {
+        "name": "General Aptitude",
+        "questions": 10,
+        "marks": 15
+      },
+      {
+        "name": "Technical Section",
+        "questions": 55,
+        "marks": 85
+      }
+    ]
+  },
+  {
+    "id": "gate-2022-cse-01",
+    "year": 2022,
+    "subject": "Computer Science",
+    "title": "GATE 2022 CSE - Paper 1",
+    "description": "GATE 2022 Computer Science Engineering Paper 1",
+    "totalQuestions": 65,
+    "totalMarks": 100,
+    "duration": 180,
+    "sections": [
+      {
+        "name": "General Aptitude",
+        "questions": 10,
+        "marks": 15
+      },
+      {
+        "name": "Technical Section",
+        "questions": 55,
+        "marks": 85
+      }
+    ]
+  }
+]
